@@ -1,0 +1,23 @@
+body {
+    background-image: url(animals.jfif); 
+    background-repeat: none;
+    color: #000;
+  }
+  
+.formbox {
+    columns: 500px 2;
+    background-color: #ffffff;
+    align-items: center;
+    height: 385px;
+  }
+  
+.title{
+    max-height: 100%;
+    margin: auto;
+}
+  .form {
+    margin-top: 50px;
+    align-items:center;
+    background-color: #00000041;
+  }
+  
